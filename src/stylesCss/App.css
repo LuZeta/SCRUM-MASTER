@@ -21,7 +21,7 @@ body{
 }
 /*Home*/
 .logoHome {
-  height: 0em;
+  height: 6em;
   padding: 1.5em;
   will-change: filter;
   display: block;
